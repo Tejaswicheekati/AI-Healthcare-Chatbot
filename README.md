@@ -20,6 +20,13 @@ This repository showcases my academic research project as part of the AI5120 cou
 - Google Teachable Machine (image classifier project)
 - Elements of AI coursework
 - Azure AI Fundamentals (conceptual)
+  ## 📜 Certifications
+
+- [✅ Introduction to Machine Learning – Microsoft Learn (April 2025)](https://learn.microsoft.com/en-us/users/cheekatitejaswi-8382/achievements/w2xclxdn?tab=tab-modules)
+- [✅ Fundamental AI Concepts – Microsoft Learn (March 2025)](https://learn.microsoft.com/en-us/users/cheekatitejaswi-8382/achievements/yeafbeqr)
+
+These modules were completed as part of hands-on training during the AI5120 course, contributing to the development of this chatbot research project.
+
 
 ## 📄 Files
 - `AI_Chatbot_Research_Paper.pdf` — Full project report
@@ -28,3 +35,4 @@ This repository showcases my academic research project as part of the AI5120 cou
 
 ## ✨ Outcome
 This work forms the foundation for building responsible, transparent, and helpful AI tools in the healthcare ecosystem. It also demonstrates the potential of academic knowledge to inform ethical AI design in real-world applications.
+
