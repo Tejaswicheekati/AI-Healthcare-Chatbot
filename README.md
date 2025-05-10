@@ -35,5 +35,3 @@ These modules were completed as part of hands-on training during the AI5120 cour
 
 ## ✨ Outcome
 This work forms the foundation for building responsible, transparent, and helpful AI tools in the healthcare ecosystem. It also demonstrates the potential of academic knowledge to inform ethical AI design in real-world applications.
-
-Deleted outdated AI Project.docx after uploading updated version
